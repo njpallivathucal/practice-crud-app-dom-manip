@@ -1,0 +1,20 @@
+{
+  "name": "practice-crud-app-dom-manip",
+  "version": "1.0.0",
+  "description": "practice exam",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serena, Noel, Alana, Kyle, Diane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.3.2",
+    "node": "^20.4.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
